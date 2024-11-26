@@ -1,0 +1,288 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.ota {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 6px 0px #1010100A;
+    border: 1px solid black;
+    height: 56px;
+    gap: 0px;
+    border-radius: 1px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.btn2 {
+    border: 1px solid #FF5634;
+    background-color: #FF5634;
+    color: #FFFFFF;
+    width: 114px;
+    height: 56px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+
+
+}
+.ota2{
+    display: flex;
+    align-items: center;
+    background-image: url(./img/IMAGE\ \(12\).png);
+    background-position-x: right;
+    background-size:  602px;
+background-repeat: no-repeat;
+gap: 50px;
+}   
+.ota2-img{
+  margin-right: 400px;
+  width: 356px;
+height: 710px;
+top: -0.06px;
+gap: 0px;
+opacity: 0px;
+
+}
+.ota2-text{
+    width: 586px;
+height: 586px;
+top: 62px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.ota2-img2{
+    display: flex;
+    width: 586px;
+height: 91px;
+top: 495px;
+gap: 0px;
+opacity: 0px;
+align-items: center;
+}
+.ota2-text h1{
+    font-family: Roboto;
+font-size: 62px;
+font-weight: 700;
+line-height: 71.98px;
+text-align: left;
+color: black;
+}
+.ota2-text p{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30.01px;
+    text-align: left;
+    
+}
+.ota2-text{
+    margin-top: 163px;
+    padding-right: 30px;
+}
+.ota3{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    gap: 150px;
+    
+}
+.ota3 img{
+    margin-right: 1px;
+    width: 239px;
+height: 40px;
+gap: 0px;
+opacity: 0px;
+
+}
+ h1{
+    text-align: center;
+    font-family: Roboto;
+font-size: 44px;
+font-weight: 700;
+line-height: 53.99px;
+text-align: center;
+
+}
+.card{
+    width: 350px;
+height: 430px;
+gap: 0px;
+opacity: 0px;
+
+}
+.card p{
+    color: grey;
+}
+.card h2{
+    color: black;
+    font-family: Roboto;
+font-size: 28px;
+font-weight: 400;
+line-height: 40.01px;
+text-align: center;
+
+}
+.card img{
+    text-align: center;
+}
+.ota4{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+
+}
+.container button{
+margin-left: 300px;
+}
+.ota5{
+    display: flex;
+    align-items: center;
+    background-image: url(./img/IMAGE\ \(12\).png);
+    background-position-x: right;
+    background-size:  602px;
+background-repeat: no-repeat;
+gap: 100px;
+}
+.ota6{
+    display: flex;
+    align-items: center;
+    
+}
+.ota6-text{
+    background-color: black;
+    width: 1440px;
+height: 854px;
+gap: 0px;
+opacity: 0px;
+margin-top: 20px;
+
+}
+.ota6-text h1{
+    color: white;
+    margin-top: 400px;
+}
+.ota6-text p{
+    color: white;
+}
+.ota6-img img{
+    width: 676.8px;
+height: 854px;
+top: -0.17px;
+left: 763.2px;
+gap: 0px;
+opacity: 0px;
+
+}
+.ota7{
+    margin-top: 20px;
+}
+.ota8{
+    display: flex;
+    gap: 20px;
+}
+.ota8-text{
+margin-top: 90px;
+}
+.ota9{
+    width: 1222px;
+height: 129px;
+left: 24px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+align-items: center;
+}
+.card2{
+    width: 389px;
+height: 268px;
+top: 0.23px;
+gap: 0px;
+opacity: 0px;
+box-shadow: 0px 2px 12px 0px #10101014;
+border: 1px solid #EDEDED
+
+}
+.card2 p{
+    margin-top: 20px;
+}
+.ota10{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.ota11{
+    display: flex;
+    background-color: black;
+
+}
+.ota11-text{
+ 
+ color: white;
+}
+.ota11-text h1{
+    margin-top: 300px;
+    margin-left: 50px;
+}
+.ota11-text p{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.ota11{
+    display: flex;
+    align-items: center;
+
+}
+.ota12{
+    display: flex;
+    gap: 250px;
+}
+.btn3{
+    width: 208px;
+height: 66px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #FF5634;
+background-color: #FF5634;
+color:white;
+gap: 50px;
+
+}
+.ota12-button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
